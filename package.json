@@ -1,0 +1,29 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "A simple friend matching application built using HTML, CSS, JS, Node, NPM, Express & Heroku",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Vig/FriendFinder.git"
+  },
+  "keywords": [
+    "Friends",
+    "Matching"
+  ],
+  "author": "Rahul Vig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Vig/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Rahul-Vig/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.4.0",
+    "nodemon": "^1.18.11",
+    "path": "^0.12.7"
+  }
+}
